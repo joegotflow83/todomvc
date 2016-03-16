@@ -1,5 +1,5 @@
 # Created by https://www.gitignore.io
-
+todo_env/
 ### Django ###
 *.log
 *.pot
